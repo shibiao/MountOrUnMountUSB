@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Driver.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>04E9701C1EB5B38E00EFAA7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04E970381EB5B39C00EFAA7A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
